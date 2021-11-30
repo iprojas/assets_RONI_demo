@@ -28,12 +28,6 @@ body {
 
 }
 
-h1  {
-
-    color: white;
-
-}
-
 /* Simple Button styles*/
 button {
 
@@ -120,7 +114,7 @@ button:hover {
 /* Style for Centered Text */
 [data-component="centered-dialog"] 
 p {
-
+    background-color: black;
     color: white;
 
 }
