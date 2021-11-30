@@ -25,6 +25,11 @@ body {
     
 	font-family: 'Mochiy Pop One', sans-serif;
     font-size: 1.5rem;
+
+}
+
+h1  {
+
     color: white;
 
 }
@@ -117,6 +122,7 @@ button:hover {
 p {
 
     color: white;
+
 }
 
 /* Character Images Styles */
