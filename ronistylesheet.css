@@ -112,10 +112,10 @@ button:hover {
 }
 
 /* Style for Centered Text */
-[data-component="centered-dialog"] {
-    
-    color: white;
+[data-component="centered-dialog"] 
+body {
 
+    color: white;
 }
 
 /* Character Images Styles */
