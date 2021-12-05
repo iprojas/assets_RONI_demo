@@ -115,7 +115,6 @@ button:hover {
 [data-component="centered-dialog"] 
 centered-dialog {
     background-color: black;
-    background-blend-mode: screen;
     color: white;
 
 }
