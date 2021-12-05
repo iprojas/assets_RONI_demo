@@ -116,8 +116,8 @@ button:hover {
 centered-dialog {
     background-color: black;
     color: white;
-
 }
+/centered-dialog
 
 /* Character Images Styles */
 [data-screen="game"] [data-character] {
