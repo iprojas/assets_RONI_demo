@@ -245,5 +245,10 @@ input[type=range]::-ms-fill-upper {
 
 game-screen [data-sprite].right {
     left: auto;
-    right: 1100px;
+    right: 110px;
+}
+
+game-screen [data-sprite].left {
+    left: 110px;
+    right: auto;
 }
