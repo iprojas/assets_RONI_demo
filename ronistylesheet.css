@@ -247,7 +247,3 @@ game-screen [data-sprite].right {
     left: auto;
     right: 1100px;
 }
-game-screen [data-sprite].left {
-    left: 110px;
-    right: auto;
-}
